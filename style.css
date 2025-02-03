@@ -111,7 +111,7 @@ header nav ul li a:hover {
 }
 
 .banner {
-    background: url("img/logo.jpg") no-repeat center center/cover;
+    background: url("https://scontent.fkiv10-1.fna.fbcdn.net/v/t39.30808-6/395946882_3578436329045930_366036286261927736_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=MA0HtvtAp00Q7kNvgGlKj0K&_nc_oc=AdiSugNYh619KI8wcFLyVxrtQ3QTA0ZaVi5NxrLL7T5m3Cv7IiPE1H8xNldDGyovVPE&_nc_zt=23&_nc_ht=scontent.fkiv10-1.fna&_nc_gid=AiN8A6hQHYTLaM3hHVqJa5N&oh=00_AYDY3bo_m_wAAWZUIjP_CLsXE895tSgkmzhaq2RIH2iC7w&oe=67A6CEA7") no-repeat center center/cover;
     color: #fff;
     text-align: center;
     padding: 78px 24px;
