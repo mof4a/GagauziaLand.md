@@ -552,7 +552,7 @@ footer{
     }
     .menu-toggle{
         position: relative;
-        left: -230px;
+        left: -190px;
     }
     h5[data-text="Welcome"]{
         transform: scale(1.5);
