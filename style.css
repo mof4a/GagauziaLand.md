@@ -4,9 +4,6 @@
     box-sizing: border-box;
     font-family: 'Segoe UI', sans-serif;
 }
-* *::before, *::after{
-    box-sizing: border-box;
-}
 html, body{
     scroll-behavior: smooth;
 }
