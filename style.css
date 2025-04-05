@@ -577,7 +577,7 @@ footer{
         opacity: 0;
     }
     .information{
-        margin-left: 20px;
+        margin-left: 5px;
     }
     p[data-text="about-text"]{
         transform: translateY(-20px);
