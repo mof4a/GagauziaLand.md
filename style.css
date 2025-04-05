@@ -564,10 +564,10 @@ footer{
         transform: translateX(-150px);
     }
     h5{
-        margin-left: 3px;
+        margin-left: 10px;
     }
     .gallery-img{
-        margin-left: 10px;
+        margin-left: 2px;
     }
     .container{
         width: 106%;
